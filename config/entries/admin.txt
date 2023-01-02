@@ -64,7 +64,7 @@ ANNOUNCE_ADMIN_LOGOUT
 AUTOADMIN_RANK Game Master
 
 ## Uncomment to automatically give that admin rank to all players
-#AUTOADMIN
+AUTOADMIN
 
 ## Comment this out to stop admins being able to choose their personal ooccolor
 ALLOW_ADMIN_OOCCOLOR
