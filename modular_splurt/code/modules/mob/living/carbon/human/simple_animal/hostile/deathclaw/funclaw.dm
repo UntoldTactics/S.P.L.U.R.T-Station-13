@@ -1,6 +1,6 @@
 /mob/living/simple_animal/hostile/deathclaw/funclaw
 	name = "Funclaw"
-	desc = "A massive, reptilian creature with powerful muscles, razor-sharp claws, and aggression to match. This one seems to have a strange look in its eyes.."
+	desc = "A massive, possibly friendly reptilian creature with powerful muscles, razor-sharp claws, and aggression to match. This one seems to have a strange look in its eyes.."
 	var/change_target_hole_cooldown = 0
 	var/chosen_hole
 	var/voremode = FALSE // Fixes runtime when grabbing victim
