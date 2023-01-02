@@ -13,6 +13,7 @@
 
 
 $include entries/admin.txt
+$include entries/admins.txt
 $include entries/alert.txt
 $include entries/antag_rep.txt
 $include entries/bot.txt
